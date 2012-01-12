@@ -1,0 +1,455 @@
+[SCP] /operation/search_all_output_pos_arcs_with_attr/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/search_all_input_pos_arcs/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/search_all_output_pos_arcs/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/search_authors/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/search_identifiers/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/search_decomposition/init_op::init_op_op1(sys_set_event_handler, line 54)
+[SCP] /operation/search_illustration/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/conclusion_fragmentation/init_op::init_op_op1(sys_get_location, line 59)
+[SCP] /operation/find_value/init_op::init_op_op1(sys_set_event_handler, line 60)
+[SCP] /operation/postorder_tree_search_manager/init_op::init_op_op1(sys_set_event_handler, line 58)
+[SCP] /operation/postorder_tree_search_op/init_op::init_op_op1(sys_set_event_handler, line 57)
+[SCP] /operation/find_value_production/init_op::init_op_op1(sys_set_event_handler, line 67)
+[SCP] /operation/gen_transitive_links/init_op::init_op_op1(sys_set_event_handler, line 57)
+[SCP] /operation/gen_all_memberships/init_op::init_op_op1(sys_set_event_handler, line 56)
+[SCP] /operation/gen_private_impl/init_op::init_op_op1(sys_set_event_handler, line 60)
+[SCP] /operation/check_atomic_statement_validity/init_op::init_op_op1(sys_set_event_handler, line 63)
+[SCP] /operation/check_atomic_statement_validity_prov/init_op::init_op_op1(sys_set_event_handler, line 61)
+[SCP] /operation/check_impl_statement_validity_prov/init_op::init_op_op1(sys_set_event_handler, line 60)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op1(sys_open_segment_uri, line 22)
+[SCP] /operation/geometry_menu_operations/get_perimeter/init_op::init_op_op1(sys_set_event_handler, line 61)
+[SCP] /operation/search_antipode/init_op::init_op_op1(sys_set_event_handler, line 51)
+[SCP] /operation/search_bibliography/init_op::init_op_op1(sys_set_event_handler, line 20)
+[SCP] /operation/search_definition/init_op::init_op_op1(sys_set_event_handler, line 50)
+[SCP] /operation/search_explanation/init_op::init_op_op1(sys_set_event_handler, line 49)
+[SCP] /operation/search_partition/init_op::init_op_op1(sys_set_event_handler, line 49)
+[SCP] /operation/search_proof/init_op::init_op_op1(sys_set_event_handler, line 20)
+[SCP] /operation/search_prototype/init_op::init_op_op1(sys_set_event_handler, line 51)
+[SCP] /operation/search_rel_connect_diff_concepts/init_op::init_op_op1(sys_set_event_handler, line 51)
+[SCP] /operation/search_rel_connect_same_concepts/init_op::init_op_op1(sys_set_event_handler, line 51)
+[SCP] /operation/search_rel_domain/init_op::init_op_op1(sys_set_event_handler, line 49)
+[SCP] /operation/search_rel_intersect_with_concept/init_op::init_op_op1(sys_set_event_handler, line 50)
+[SCP] /operation/search_rel_schema/init_op::init_op_op1(sys_set_event_handler, line 49)
+[SCP] /operation/search_statement/init_op::init_op_op1(sys_set_event_handler, line 20)
+[SCP] /operation/search_of_all_supersets/init_op::init_op_op1(sys_set_event_handler, line 55)
+[SCP] /operation/search_binary_relations_connecting_two_concept/init_op::init_op_op1(sys_set_event_handler, line 58)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_all_input_pos_arcs/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_all_output_pos_arcs/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_authors/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_identifiers/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_decomposition/init_op::init_op_op2(return, line 56)
+[SCP] /operation/search_illustration/init_op::init_op_op2(return, line 58)
+[SCP] /operation/conclusion_fragmentation/init_op::init_op_op2(sys_set_default_segment, line 60)
+[SCP] /operation/find_value/init_op::init_op_op2(return, line 62)
+[SCP] /operation/postorder_tree_search_manager/init_op::init_op_op2(return, line 60)
+[SCP] /operation/postorder_tree_search_op/init_op::init_op_op2(return, line 59)
+[SCP] /operation/find_value_production/init_op::init_op_op2(return, line 69)
+[SCP] /operation/gen_transitive_links/init_op::init_op_op2(return, line 60)
+[SCP] /operation/gen_all_memberships/init_op::init_op_op2(return, line 60)
+[SCP] /operation/gen_private_impl/init_op::init_op_op2(return, line 62)
+[SCP] /operation/check_atomic_statement_validity/init_op::init_op_op2(return, line 65)
+[SCP] /operation/check_atomic_statement_validity_prov/init_op::init_op_op2(return, line 62)
+[SCP] /operation/check_impl_statement_validity_prov/init_op::init_op_op2(return, line 61)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op2(sys_set_default_segment, line 23)
+[SCP] /operation/geometry_menu_operations/get_perimeter/init_op::init_op_op2(return, line 63)
+[SCP] /operation/search_antipode/init_op::init_op_op2(return, line 53)
+[SCP] /operation/search_bibliography/init_op::init_op_op2(return, line 22)
+[SCP] /operation/search_definition/init_op::init_op_op2(return, line 52)
+[SCP] /operation/search_explanation/init_op::init_op_op2(return, line 51)
+[SCP] /operation/search_partition/init_op::init_op_op2(return, line 51)
+[SCP] /operation/search_proof/init_op::init_op_op2(return, line 22)
+[SCP] /operation/search_prototype/init_op::init_op_op2(return, line 53)
+[SCP] /operation/search_rel_connect_diff_concepts/init_op::init_op_op2(return, line 53)
+[SCP] /operation/search_rel_connect_same_concepts/init_op::init_op_op2(return, line 53)
+[SCP] /operation/search_rel_domain/init_op::init_op_op2(return, line 51)
+[SCP] /operation/search_rel_intersect_with_concept/init_op::init_op_op2(return, line 52)
+[SCP] /operation/search_rel_schema/init_op::init_op_op2(return, line 51)
+[SCP] /operation/search_statement/init_op::init_op_op2(return, line 22)
+[SCP] /operation/search_of_all_supersets/init_op::init_op_op2(return, line 58)
+[SCP] /operation/search_binary_relations_connecting_two_concept/init_op::init_op_op2(return, line 59)
+[SCP] /operation/conclusion_fragmentation/init_op::init_op_op3(sys_spin_segment, line 61)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op3(sys_spin_segment, line 24)
+[SCP] /operation/conclusion_fragmentation/init_op::init_op_op4(sys_set_event_handler, line 74)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op4(callReturn, line 92)
+[SCP] /operation/conclusion_fragmentation/init_op::init_op_op5(return, line 76)
+[SCP] ./operation/temp4/temp4::temp4_op1(sys_get_location, line 56)
+[SCP] ./operation/temp4/temp4::temp4_op2(sys_set_default_segment, line 57)
+[SCP] ./operation/temp4/temp4::temp4_op3(sys_spin_segment, line 58)
+[SCP] ./operation/temp4/temp4::temp4_op4(genElStr3, line 64)
+[SCP] ./operation/temp4/temp4::temp4_op5(genElStr3, line 69)
+[SCP] ./operation/temp4/temp4::temp4_op6(genElStr3, line 74)
+[SCP] ./operation/temp4/temp4::temp4_op7(genElStr3, line 79)
+[SCP] ./operation/temp4/temp4::temp4_op8(genElStr3, line 84)
+[SCP] ./operation/temp4/temp4::temp4_op9(return, line 85)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op1(sys_get_location, line 114)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op1(printNl, line 83)
+checking: Op_search_binary_relations_connecting_two_concept
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op1(printNl, line 84)
+checking: Op_search_of_all_supersets
+[SCP] /operation/search_statement/run_op::run_op_op1(sys_get_location, line 44)
+[SCP] /operation/search_rel_schema/run_op::run_op_op1(sys_get_location, line 73)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op1(printNl, line 75)
+
+checking: Op_search_rel_intersect_with_concept
+
+[SCP] /operation/search_rel_domain/run_op::run_op_op1(sys_get_location, line 73)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op1(printNl, line 74)
+
+checking: Op_search_rel_connect_same_concepts
+
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op1(printNl, line 74)
+
+checking: Op_search_rel_connect_diff_concepts
+
+[SCP] /operation/search_prototype/run_op::run_op_op1(printNl, line 76)
+
+checking: Op_search_prototype
+
+[SCP] /operation/search_proof/run_op::run_op_op1(sys_get_location, line 44)
+[SCP] /operation/search_partition/run_op::run_op_op1(sys_get_location, line 73)
+[SCP] /operation/search_explanation/run_op::run_op_op1(searchElStr3, line 77)
+[SCP] /operation/search_definition/run_op::run_op_op1(printNl, line 77)
+
+checking: Op_search_definition
+
+[SCP] /operation/search_bibliography/run_op::run_op_op1(sys_get_location, line 44)
+[SCP] /operation/search_antipode/run_op::run_op_op1(printNl, line 76)
+
+checking: Op_search_antipode
+
+[SCP] /operation/geometry_menu_operations/get_perimeter/get_perimeter::get_perimeter_op1(sys_get_location, line 129)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op1(sys_get_location, line 81)
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op1(sys_get_location, line 80)
+[SCP] /operation/check_atomic_statement_validity/check_atomic_statement_validity::check_atomic_statement_validity_op1(sys_get_location, line 136)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op1(sys_get_location, line 81)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op1(sys_get_location, line 107)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op1(sys_get_location, line 94)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op1(sys_get_location, line 91)
+[SCP] /operation/find_value/find_value::find_value_op1(sys_get_location, line 85)
+[SCP] /operation/search_illustration/run_op::run_op_op1(sys_get_location, line 86)
+[SCP] /operation/search_decomposition/run_op::run_op_op1(sys_get_location, line 84)
+[SCP] /operation/search_identifiers/run_op::run_op_op1(sys_get_location, line 86)
+[SCP] /operation/search_authors/run_op::run_op_op1(sys_get_location, line 86)
+[SCP] /operation/search_all_output_pos_arcs/run_op::run_op_op1(sys_get_location, line 86)
+[SCP] /operation/search_all_input_pos_arcs/run_op::run_op_op1(sys_get_location, line 86)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/search_all_output_pos_arcs_with_attr::search_all_output_pos_arcs_with_attr_op1(sys_get_location, line 86)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op5(genElStr3, line 98)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op2(sys_set_default_segment, line 117)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op2(sys_get_location, line 85)
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op2(sys_get_location, line 85)
+[SCP] /operation/search_statement/run_op::run_op_op2(sys_open_segment, line 45)
+[SCP] /operation/search_rel_schema/run_op::run_op_op2(sys_open_segment, line 74)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op2(sys_get_location, line 77)
+[SCP] /operation/search_rel_domain/run_op::run_op_op2(sys_open_segment, line 74)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op2(sys_get_location, line 76)
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op2(sys_get_location, line 76)
+[SCP] /operation/search_prototype/run_op::run_op_op2(sys_get_location, line 78)
+[SCP] /operation/search_proof/run_op::run_op_op2(sys_open_segment, line 45)
+[SCP] /operation/search_partition/run_op::run_op_op2(sys_open_segment, line 74)
+[SCP] /operation/search_explanation/run_op::run_op_op5(return, line 108)
+[SCP] /operation/search_definition/run_op::run_op_op2(sys_get_location, line 79)
+[SCP] /operation/search_bibliography/run_op::run_op_op2(sys_open_segment, line 45)
+[SCP] /operation/search_antipode/run_op::run_op_op2(sys_get_location, line 78)
+[SCP] /operation/geometry_menu_operations/get_perimeter/get_perimeter::get_perimeter_op2(sys_set_default_segment, line 134)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op2(sys_set_default_segment, line 82)
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op2(sys_set_default_segment, line 81)
+[SCP] /operation/check_atomic_statement_validity/check_atomic_statement_validity::check_atomic_statement_validity_op2(sys_set_default_segment, line 141)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op2(sys_set_default_segment, line 82)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op2(sys_set_default_segment, line 108)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op2(sys_spin_segment, line 95)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op2(sys_set_default_segment, line 92)
+[SCP] /operation/find_value/find_value::find_value_op2(sys_set_default_segment, line 86)
+[SCP] /operation/search_illustration/run_op::run_op_op2(sys_open_segment, line 87)
+[SCP] /operation/search_decomposition/run_op::run_op_op2(sys_open_segment, line 85)
+[SCP] /operation/search_identifiers/run_op::run_op_op2(sys_open_segment, line 87)
+[SCP] /operation/search_authors/run_op::run_op_op2(sys_open_segment, line 87)
+[SCP] /operation/search_all_output_pos_arcs/run_op::run_op_op2(sys_open_segment, line 87)
+[SCP] /operation/search_all_input_pos_arcs/run_op::run_op_op2(sys_open_segment, line 87)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/search_all_output_pos_arcs_with_attr::search_all_output_pos_arcs_with_attr_op2(sys_set_default_segment, line 87)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op6(genElStr3, line 103)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op3(sys_spin_segment, line 118)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op3(sys_spin_segment, line 86)
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op3(sys_spin_segment, line 86)
+[SCP] /operation/search_statement/run_op::run_op_op3(sys_set_default_segment, line 46)
+[SCP] /operation/search_rel_schema/run_op::run_op_op3(sys_set_default_segment, line 75)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op3(sys_open_segment, line 78)
+[SCP] /operation/search_rel_domain/run_op::run_op_op3(sys_set_default_segment, line 75)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op3(sys_open_segment, line 77)
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op3(sys_open_segment, line 77)
+[SCP] /operation/search_prototype/run_op::run_op_op3(sys_open_segment, line 79)
+[SCP] /operation/search_proof/run_op::run_op_op3(sys_set_default_segment, line 46)
+[SCP] /operation/search_partition/run_op::run_op_op3(sys_set_default_segment, line 75)
+[SCP] /operation/search_definition/run_op::run_op_op3(sys_open_segment, line 80)
+[SCP] /operation/search_bibliography/run_op::run_op_op3(sys_set_default_segment, line 46)
+[SCP] /operation/search_antipode/run_op::run_op_op3(sys_open_segment, line 79)
+[SCP] /operation/geometry_menu_operations/get_perimeter/get_perimeter::get_perimeter_op3(sys_spin_segment, line 140)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op3(sys_spin_segment, line 83)
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op3(sys_spin_segment, line 82)
+[SCP] /operation/check_atomic_statement_validity/check_atomic_statement_validity::check_atomic_statement_validity_op3(sys_spin_segment, line 147)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op3(sys_spin_segment, line 83)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op3(sys_spin_segment, line 109)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op3(sys_set_default_segment, line 96)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op3(sys_spin_segment, line 93)
+[SCP] /operation/find_value/find_value::find_value_op3(sys_spin_segment, line 87)
+[SCP] /operation/search_illustration/run_op::run_op_op3(sys_set_default_segment, line 88)
+[SCP] /operation/search_decomposition/run_op::run_op_op3(sys_set_default_segment, line 86)
+[SCP] /operation/search_identifiers/run_op::run_op_op3(sys_set_default_segment, line 88)
+[SCP] /operation/search_authors/run_op::run_op_op3(sys_set_default_segment, line 88)
+[SCP] /operation/search_all_output_pos_arcs/run_op::run_op_op3(sys_set_default_segment, line 88)
+[SCP] /operation/search_all_input_pos_arcs/run_op::run_op_op3(sys_set_default_segment, line 88)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/search_all_output_pos_arcs_with_attr::search_all_output_pos_arcs_with_attr_op3(sys_spin_segment, line 88)
+[SCP] /operation/preprocessing/preprocessing::preprocessing_op7(return, line 107)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op4(printNl, line 120)
+
+
+I have entered fragmentation!!!
+
+
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op4(sys_set_default_segment, line 88)
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op4(sys_open_segment, line 87)
+[SCP] /operation/search_statement/run_op::run_op_op4(searchElStr3, line 52)
+[SCP] /operation/search_rel_schema/run_op::run_op_op4(searchElStr3, line 81)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op4(sys_set_default_segment, line 79)
+[SCP] /operation/search_rel_domain/run_op::run_op_op4(searchElStr3, line 81)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op4(sys_set_default_segment, line 78)
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op4(sys_set_default_segment, line 78)
+[SCP] /operation/search_prototype/run_op::run_op_op4(sys_set_default_segment, line 80)
+[SCP] /operation/search_proof/run_op::run_op_op4(searchElStr3, line 52)
+[SCP] /operation/search_partition/run_op::run_op_op4(searchElStr3, line 81)
+[SCP] /operation/search_definition/run_op::run_op_op4(sys_set_default_segment, line 81)
+[SCP] /operation/search_bibliography/run_op::run_op_op4(searchElStr3, line 52)
+[SCP] /operation/search_antipode/run_op::run_op_op4(sys_set_default_segment, line 80)
+[SCP] /operation/geometry_menu_operations/get_perimeter/get_perimeter::get_perimeter_op4(searchElStr3, line 147)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op4(searchElStr3, line 89)
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op4(searchElStr3, line 88)
+[SCP] /operation/check_atomic_statement_validity/check_atomic_statement_validity::check_atomic_statement_validity_op4(searchElStr3, line 154)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op4(searchElStr3, line 89)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op4(searchElStr3, line 117)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op4(searchElStr3, line 102)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op4(searchSetStr3, line 100)
+[SCP] /operation/find_value/find_value::find_value_op4(searchElStr3, line 93)
+[SCP] /operation/search_illustration/run_op::run_op_op4(searchElStr3, line 93)
+[SCP] /operation/search_decomposition/run_op::run_op_op4(searchElStr3, line 91)
+[SCP] /operation/search_identifiers/run_op::run_op_op4(searchElStr3, line 93)
+[SCP] /operation/search_authors/run_op::run_op_op4(searchElStr3, line 93)
+[SCP] /operation/search_all_output_pos_arcs/run_op::run_op_op4(searchElStr3, line 93)
+[SCP] /operation/search_all_input_pos_arcs/run_op::run_op_op4(searchElStr3, line 93)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/search_all_output_pos_arcs_with_attr::search_all_output_pos_arcs_with_attr_op4(searchElStr3, line 94)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op5(searchElStr3, line 128)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op5(printEl, line 90)
+printEl: node|const:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@52
+Output arcs:
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@54 >- node|const:/seb/planimetry/A
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@55 >- node|const:/seb/planimetry/B
+
+Input arcs:
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@53 -< node|const:/etc/questions/поиск всех бинарных отношений, связывающих два понятия
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@56 -< node|const:/etc/questions/вопрос
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@57 -< node|const:/etc/questions/инициированный вопрос
+
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op5(sys_set_default_segment, line 88)
+[SCP] /operation/search_statement/run_op::run_op_op8(return, line 83)
+[SCP] /operation/search_rel_schema/run_op::run_op_op8(return, line 112)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op5(searchElStr3, line 85)
+[SCP] /operation/search_rel_domain/run_op::run_op_op8(return, line 112)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op5(searchElStr3, line 84)
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op5(searchElStr3, line 84)
+[SCP] /operation/search_prototype/run_op::run_op_op5(searchElStr3, line 86)
+[SCP] /operation/search_proof/run_op::run_op_op8(return, line 83)
+[SCP] /operation/search_partition/run_op::run_op_op8(return, line 112)
+[SCP] /operation/search_definition/run_op::run_op_op5(searchElStr3, line 87)
+[SCP] /operation/search_bibliography/run_op::run_op_op8(return, line 83)
+[SCP] /operation/search_antipode/run_op::run_op_op5(searchElStr3, line 86)
+[SCP] /operation/geometry_menu_operations/get_perimeter/get_perimeter::get_perimeter_op20(return, line 267)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op35(printNl, line 262)
+
+
+I have exited CHECK IMPL STATEMENT VALIDITY PROV
+
+
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op32(printNl, line 226)
+
+
+I have exited CHECK ATOMIC STATEMENT VALIDITY PROV
+
+
+[SCP] /operation/check_atomic_statement_validity/check_atomic_statement_validity::check_atomic_statement_validity_op65(return, line 630)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op68(printNl, line 399)
+
+
+I have exited GENERATE PRIVATE IMPL
+
+
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op36(ifVarAssign, line 289)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op58(printNl, line 384)
+
+
+I have exited POSTORDER TREE SEARCH
+
+
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op5(ifVarAssign, line 102)
+[SCP] /operation/find_value/find_value::find_value_op32(printNl, line 217)
+
+
+I have exited FIND VALUE
+
+
+[SCP] /operation/search_illustration/run_op::run_op_op8(return, line 131)
+[SCP] /operation/search_decomposition/run_op::run_op_op8(return, line 125)
+[SCP] /operation/search_identifiers/run_op::run_op_op8(return, line 127)
+[SCP] /operation/search_authors/run_op::run_op_op8(return, line 127)
+[SCP] /operation/search_all_output_pos_arcs/run_op::run_op_op8(return, line 127)
+[SCP] /operation/search_all_input_pos_arcs/run_op::run_op_op8(return, line 127)
+[SCP] /operation/search_all_output_pos_arcs_with_attr/search_all_output_pos_arcs_with_attr::search_all_output_pos_arcs_with_attr_op27(return, line 213)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op27(printNl, line 256)
+
+
+I have exited fragmentation!!!
+
+
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op6(searchElStr3, line 96)
+[SCP] /operation/search_of_all_supersets/run_op::run_op_op6(searchElStr3, line 94)
+[SCP] /operation/search_rel_intersect_with_concept/run_op::run_op_op9(return, line 116)
+[SCP] /operation/search_rel_connect_same_concepts/run_op::run_op_op9(return, line 115)
+[SCP] /operation/search_rel_connect_diff_concepts/run_op::run_op_op9(return, line 115)
+[SCP] /operation/search_prototype/run_op::run_op_op9(return, line 115)
+[SCP] /operation/search_definition/run_op::run_op_op9(return, line 118)
+[SCP] /operation/search_antipode/run_op::run_op_op9(return, line 115)
+[SCP] /operation/check_impl_statement_validity_prov/check_impl_statement_validity_prov::check_impl_statement_validity_prov_op36(return, line 263)
+[SCP] /operation/check_atomic_statement_validity_prov/check_atomic_statement_validity_prov::check_atomic_statement_validity_prov_op33(return, line 227)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op69(ifVarAssign, line 400)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op38(ifVarAssign, line 296)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op59(ifVarAssign, line 385)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op7(searchElStr3, line 109)
+[SCP] /operation/find_value/find_value::find_value_op33(ifVarAssign, line 218)
+[SCP] /operation/conclusion_fragmentation/conclusion_fragmentation::conclusion_fragmentation_op28(return, line 258)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op7(searchSetStr3, line 105)
+[SCP] /operation/search_of_all_supersets/run_op::search_of_all_supersets_op16(return, line 178)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op71(ifVarAssign, line 403)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op40(printNl, line 299)
+
+
+I have exited FIND VALUE PRODUCTION
+
+
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op61(ifVarAssign, line 388)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op8(ifCoin, line 110)
+[SCP] /operation/find_value/find_value::find_value_op35(return, line 221)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op8(genEl, line 107)
+[SCP] /operation/gen_private_impl/gen_private_impl::gen_private_impl_op73(return, line 406)
+[SCP] /operation/find_value_production/find_value_production::find_value_production_op41(return, line 300)
+[SCP] /operation/postorder_tree_search_op/postorder_tree_search_op::postorder_tree_search_op_op63(return, line 391)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op9(ifCoin, line 111)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op9(callReturn, line 115)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op10(ifCoin, line 112)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op1(sys_get_location, line 178)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op11(searchElStr3, line 117)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op2(sys_spin_segment, line 179)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op12(searchElStr3, line 123)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op3(sys_set_default_segment, line 181)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op13(searchElStr3, line 128)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op4(printNl, line 183)
+QUESTNODE
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op41(printNl, line 314)
+
+
+I have exited POSTORDER TREE SEARCH MANAGER
+
+
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op5(printEl, line 184)
+printEl: node|const:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@52
+Output arcs:
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@54 >- node|const:/seb/planimetry/A
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@55 >- node|const:/seb/planimetry/B
+
+Input arcs:
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@53 -< node|const:/etc/questions/поиск всех бинарных отношений, связывающих два понятия
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@56 -< node|const:/etc/questions/вопрос
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@57 -< node|const:/etc/questions/инициированный вопрос
+
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op42(ifVarAssign, line 316)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op6(searchElStr3, line 192)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op43(eraseEl, line 317)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op7(eraseEl, line 193)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op44(ifVarAssign, line 319)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op8(searchElStr3, line 200)
+[SCP] /operation/postorder_tree_search_manager/postorder_tree_search_manager::postorder_tree_search_manager_op46(return, line 322)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op9(eraseEl, line 201)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op10(searchElStr3, line 210)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op11(searchSetStr5, line 221)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op12(searchElStr3, line 229)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op13(eraseEl, line 230)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op14(searchElStr3, line 238)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op15(searchSetStr3, line 252)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op16(selectYStr3, line 261)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op17(searchElStr3, line 268)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op18(callReturn, line 282)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op1(searchElStr5, line 328)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op2(searchElStr5, line 337)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op3(searchElStr3, line 344)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op4(searchElStr3, line 352)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op5(genElStr3, line 357)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op6(searchElStr3, line 365)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op7(genElStr3, line 370)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op8(searchElStr3, line 377)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op9(genElStr3, line 382)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op10(searchElStr3, line 389)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op11(genElStr3, line 394)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op12(searchElStr3, line 401)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op13(genElStr3, line 406)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op14(searchElStr3, line 413)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op15(genElStr3, line 418)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op16(searchElStr3, line 425)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op17(genElStr3, line 430)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op18(searchElStr3, line 437)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op19(genElStr3, line 442)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op20(searchElStr3, line 449)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op21(genElStr3, line 454)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op22(searchElStr3, line 461)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op23(genElStr3, line 466)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op24(searchElStr3, line 473)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op25(genElStr3, line 478)
+[SCP] ../operation/search_binary_relations_connecting_two_concept/search_var_and_add_to_answer_procedure::search_var_and_add_to_answer_procedure_op26(return, line 289)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op19(nop, line 284)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_binary_relations_connecting_two_concept_search_procedure_op12(searchElStr3, line 229)
+[SCP] ./operation/search_binary_relations_connecting_two_concept/search_binary_relations_connecting_two_concept_search_procedure::search_var_and_add_to_answer_procedure_op26(return, line 289)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op10(searchElStr3, line 125)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op11(eraseEl, line 127)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op12(searchElStr3, line 133)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op13(eraseEl, line 135)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op14(nop, line 137)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op10(searchElStr3, line 125)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op11(eraseEl, line 127)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op12(searchElStr3, line 133)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op13(eraseEl, line 135)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op14(nop, line 137)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op10(searchElStr3, line 125)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op15(printNl, line 142)
+RESULT
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op16(printEl, line 143)
+printEl: node|const:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@124
+Output arcs:
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@133 >- node|const:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@12a
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@134 >- node|const:/etc/com_keynodes/строгое включение*
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@137 >- node|const:/proc/keynode/1_
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@138 >- node|const:/proc/keynode/2_
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@139 >- arc|const|pos:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@12f
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@13a >- arc|const|pos:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@130
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@13b >- arc|const|pos:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@12b
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@13c >- arc|const|pos:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@131
+	arc|const|pos|temporary|actual:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@13d >- arc|const|pos:/seb/planimetry/@@52879e9e-4648-423c-b70b-aecfe7bcec02@132
+
+Input arcs:
+
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op17(callReturn, line 151)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op1(sys_get_location, line 69)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op2(sys_open_segment, line 70)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op3(sys_set_default_segment, line 71)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op4(genEl, line 76)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op5(genElStr3, line 81)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op6(genElStr5, line 90)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op7(genElStr5, line 99)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op8(genElStr3, line 105)
+[SCP] ./lib/questions/answer_make/answer_make::answer_make_op9(return, line 110)
+[SCP] /operation/search_binary_relations_connecting_two_concept/run_op::run_op_op18(return, line 154)
