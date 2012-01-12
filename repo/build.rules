@@ -17,8 +17,19 @@
 # example 
 
 # core KB
-#scn:> "/seb/planimetry" "/etc/com_keynodes" "seb/planimetry"
-scg:> "seb/planimetry" -> "seb/planimetry"
+#scn:> "/seb/planimetry" "/etc/com_keynodes" "seb/planimetry_src" "http://systems.ostis.net" "Геометрия"
+#scs:> "seb/planimetry_src" -> "seb/planimetry"
+
+#scn:> "/seb/numsys" "/etc/com_keynodes" "seb/numsys_src" "http://ostisnumsys.sourceforge.net" "Числовые системы"
+scs:> "seb/numsys_src" -> "seb/numsys"
+
+#scn:> "/seb/sets" "/etc/com_keynodes" "seb/sets_src" "http://ostissets.sourceforge.net/wiki" "Общие понятия теории множеств"
+#scs:> "seb/sets_src" -> "seb/sets"
+#scn:> "/seb/conferences" "/etc/com_keynodes" "seb/conf_src" "http://conf.ostis.net" "Фотографии"
+#scs:> "seb/conf_src" -> "seb/conferences"
+
+#scn:> "/seb/rus" "/etc/com_keynodes" "seb/rus_src" "http://ostisrussianlan.sourceforge.net" "БЗ"
+#scs:> "seb/rus_src" -> "seb/rus"
 
 scg:> "etc/com_keynodes_src" -> "etc/com_keynodes"
 scg:> "ui/menu" -> "ui/menu"
@@ -27,6 +38,8 @@ scg:> "ui/core_src" -> "ui/core"
 
 scg:> "etc/questions_src" -> "etc/questions"
 scg:> "etc/operations_src" -> "etc/operations"
+#scg:> "seb/space_src" -> "seb/space"
+#scg:> "seb/chemistry_src" -> "seb/chemistry"
 
 scg:> "ui/menu" -> "ui/menu"
 
@@ -36,13 +49,14 @@ inc:> beg "include/_keynodes.scsy" <- "ordinal.scsy"
 gwfkey:> "etc/com_keynodes_src/com_keynodes.gwf" -> "include/_keynodes.scsy" "/etc/com_keynodes"
 gwfkey:> "etc/questions_src/questions_keynodes.gwf" -> "include/_keynodes.scsy" "/etc/questions"
 gwfkey:> "ui/core_src/ui_keynodes.gwf" -> "include/_keynodes.scsy" "/ui/core"
+#gwfkey:> "seb/space_src/_keynodes.gwf" -> "include/_keynodes.scsy" "/seb/space"
+#gwfkey:> "seb/chemistry_src/_keynodes.gwf" -> "include/_keynodes.scsy" "/seb/chemistry"
 
 # test
-#scg:> "seb/test" -> "seb/test"
+scg:> "seb/test" -> "seb/test"
 
-# scg
-#scg:> "seb/planimetry_scg" -> "seb/planimetry_scg"
-#inc:> beg "seb/planimetry_scg.scg" <- "com_keynodes.scsy"
+# demo
+scg:> "seb/demo" -> "seb/demo"
 
 #LUI
-#scg:> "ui/lui" -> "ui/lui"
+scg:> "ui/lui" -> "ui/lui"

@@ -56,4 +56,5 @@ search_segments     =   ["/ui/core",
                          "/etc/questions",
                          "/etc/com_keynodes",
                          "/seb/test",
-                         "/proc/agents/nsm/keynode"]
+                         "/proc/agents/nsm/keynode",
+						 "/seb/numsys"]

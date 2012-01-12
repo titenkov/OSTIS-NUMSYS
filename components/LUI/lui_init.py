@@ -54,13 +54,13 @@ def initialize():
     global gui
     gui = GUI.UI(lui)
     
-    HTK.start(gui.setText)
+    #HTK.start(gui.setText)
     
     return
     
 def shutdown():
     print "[shutdown] LUI"
-    HTK.stop()
+    #HTK.stop()
 
     # unregister components
     global transc2text_factory

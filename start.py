@@ -40,7 +40,7 @@ import locale as lc
 lc.setlocale(lc.LC_ALL, ('English_United States', '1251'))
 encoding = lc.getlocale()[1]
 if not encoding:
-    encoding = "cp1251"
+    encoding = "utf-8"
     
 reload(sys)
 sys.setdefaultencoding(encoding)
@@ -48,9 +48,6 @@ sys.stdout = codecs.getwriter(encoding)(sys.stdout, errors = "replace")
 sys.stderr = codecs.getwriter(encoding)(sys.stderr, errors = "replace")
 
 if (__name__ == "__main__"):
-    #import sc_core.pm as sc
-    #sc.set_diag_output(True)
-    #sc.set_verb_output(True)
     
     from optparse import OptionParser
 

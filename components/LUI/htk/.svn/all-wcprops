@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/794/trunk/ui/system/components/LUI/htk
+END
+_HTK.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ostis/!svn/ver/779/trunk/ui/system/components/LUI/htk/_HTK.pyd
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/779/trunk/ui/system/components/LUI/htk/__init__.py
+END
+HTKm.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ostis/!svn/ver/794/trunk/ui/system/components/LUI/htk/HTKm.py
+END
+HTK.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/779/trunk/ui/system/components/LUI/htk/HTK.py
+END
