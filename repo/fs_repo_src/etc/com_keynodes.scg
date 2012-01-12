@@ -1,5 +1,0 @@
-#include "ordinal.scsy"
-#include "meta_info.scsy"
-#include "ui_keynodes.scsy"
-com_keynodes_src\com_keynodes.gwf
-

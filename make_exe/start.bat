@@ -1,1 +1,0 @@
-start.exe --fsrepo fs_repo > _log.out
