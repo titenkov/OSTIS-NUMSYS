@@ -66,5 +66,6 @@ search_statement = "/lib/search/statement/statement";
 
 search_quantity_value = "/lib/search/search_quantity_value/search";
 
+
 search_direct_mapping_all = "/lib/search/search_direct_mapping_all/search_direct_mapping_all";
 search_full_mapping = "/lib/search/search_full_mapping/search_full_mapping";

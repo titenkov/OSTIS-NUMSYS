@@ -89,5 +89,5 @@ along with OSTIS.  If not, see <http://www.gnu.org/licenses/>.
 	"/operation/search_binary_relations_connecting_two_concept/init_op",
 
 
-	"/ui/scg/menu/count_square_ui"
+	"/operation/count_square_ui/init_op"
 };

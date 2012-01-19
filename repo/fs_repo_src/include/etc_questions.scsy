@@ -84,6 +84,8 @@ q_conclusion_fragmentation = "/etc/questions/запрос разбиения заключения";
 q_orient_binary_relation_link = "/etc/questions/запрос связки ориентированного бинарного отношения";
 q_noorient_relation_link = "/etc/questions/запрос связки неориентированного отношения";
 
+q_count_square = "/etc/questions/вычисление квадратного корня";
+
 nrel_action_area = "/etc/questions/область действия вопроса*";
 nrel_key_fragment = "/etc/questions/ключевой фрагмент вопроса*";
 nrel_answer = "/etc/questions/ответ*";
